@@ -43,7 +43,7 @@ def save_file():
     unique_y = [i + '_y' for i in pose_key]
     unique = pose_key + unique_y + unique_pose
     df_pose = pd.DataFrame(pose_list, columns= unique)
-    df_pose.to_csv("./static/csv/head/test.csv")
+    df_pose.to_csv("your path")
     return redirect('/')
 
 if __name__ == "__main__":
