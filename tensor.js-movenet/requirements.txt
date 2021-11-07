@@ -1,0 +1,15 @@
+backports.weakref==1.0rc1
+bleach==1.5.0
+certifi==2021.5.30
+click==8.0.1
+dataclasses==0.8
+Flask==2.0.2
+html5lib==0.9999999
+importlib-metadata==4.8.1
+itsdangerous==2.0.1
+Jinja2==3.0.2
+Markdown==2.6.11
+MarkupSafe==2.0.1
+typing-extensions==3.10.0.2
+Werkzeug==2.0.2
+zipp==3.6.0
