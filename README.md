@@ -13,7 +13,7 @@ MoveNet 17개 2D Keypoint 사용
 # 머리, 상체, 하체를 더해 각 x,y 정규화
 ![pose_centr2](img/centr2.png)
 
-# 1./ 데이터추출
+# 1./ 데이터수집
 https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html - MoveNet 사용
 
 # 2./ 모델
