@@ -2,15 +2,15 @@
 
 ![pose_skeleton](img/skeleton.png) <img src="/img/keypoints.png" width="200" height="500"/>
 
-tensorflow.js 라이브러리를 통한 스켈레톤 
-MoveNet 17개 2D Keypoint 사용
-머리, 상체, 하체의 무게중심을 구하여 
-스켈레톤을 정규화 시킨 후 머신러닝을 이용한 학습
+Skeleton via tensorflow.js library
+MoveNet with 17 2D Keypoints
+Find the center of gravity of the head, upper body, and lower body
+Learning using machine learning after normalizing the skeleton
 
-### 17 keypoints으로 중심값 구하기
+### 17 keypoints center of gravity
 ![pose_centr1](img/centr1.png)
 
-### 머리, 상체, 하체를 더해 각 x,y 정규화
+### Normalize each x,y by adding the head, upper body, and lower body
 ![pose_centr2](img/centr2.png)
 
 ### 1./ Data extract
