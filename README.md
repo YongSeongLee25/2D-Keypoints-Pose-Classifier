@@ -17,7 +17,7 @@ Learning using machine learning after normalizing the skeleton
 https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html - MoveNet 사용
 
 ### 2./ Model
-사용 라이브러리 - sklearn 
+sklearn -
 Randomforest, LogisticRegression, SVC, LGBM, Voting
 
 ### 3./ Reference Paper
