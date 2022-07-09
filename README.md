@@ -1,5 +1,4 @@
 # 2D Keypoints Pose Classifier
-Body normalization and classifier using MoveNet
 
 ![pose_skeleton](img/skeleton.png) <img src="/img/keypoints.png" width="200" height="500"/>
 
