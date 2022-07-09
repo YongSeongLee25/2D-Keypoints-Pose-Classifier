@@ -14,7 +14,7 @@ Learning using machine learning after normalizing the skeleton
 ![pose_centr2](img/centr2.png)
 
 ### 1./ Data extract
-https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html - MoveNet 사용
+https://blog.tensorflow.org/2021/08/3d-pose-detection-with-mediapipe-blazepose-ghum-tfjs.html - MoveNet
 
 ### 2./ Model
 sklearn -
