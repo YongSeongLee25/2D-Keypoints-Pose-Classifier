@@ -1,6 +1,6 @@
 # 2D Keypoints Pose Classifier
 
-![pose_skeleton](img/skeleton.png) <img src="/img/keypoints.png" width="200" height="500"/>
+![pose_skeleton](img/skeleton.png) <img src="/img/keypoints.png" width="200" height="300"/>
 
 tensorflow.js 라이브러리를 통한 스켈레톤 
 MoveNet 17개 2D Keypoint 사용
