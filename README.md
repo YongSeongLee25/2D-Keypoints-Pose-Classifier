@@ -7,6 +7,8 @@ MoveNet with 17 2D Keypoints
 Find the center of gravity of the head, upper body, and lower body
 Learning using machine learning after normalizing the skeleton
 
+### Normalizes the body to solve the problem of camera-object distance and camera angle
+
 ### 17 keypoints center of gravity
 ![pose_centr1](img/centr1.png)
 
